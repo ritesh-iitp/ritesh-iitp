@@ -26,7 +26,7 @@
       <br />Java
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=MySql" width="48" height="48" alt="MySql" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySql" />
       <br />MySql
     </td>
     <td align="center" width="96">
@@ -79,7 +79,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritesh-iitpatna&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritesh-iitpatna&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-iitpatna&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
